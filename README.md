@@ -5,7 +5,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Data Analytics and Generative AI  
 - 🌱 I’m currently learning advanced AI frameworks like LangChain and improving my skills in Neural Networks, NLP, and GANs  
 - 💞️ I’m looking to collaborate on AI-driven projects, especially in Data analysis and intelligent chatbot development  
-- 📫 How to reach me: skrasool1197@gmail.com
+- 📫 How to reach me: rasool@sustainabilityeconomics.com
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love sports, especially football, and enjoy watching anime!
 
